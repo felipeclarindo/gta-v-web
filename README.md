@@ -16,9 +16,21 @@ This is a responsive website about the game "Grand Theft Auto V". The site inclu
 - `CSS` - Stylize HTML.
 - `JavaScript` - Interactivity and Dynamic Features.
 
-## Running Application:
+## Steps to run:
 
-Open the `index.html` file an a web navigator to view the site.
+1. Clone the repository:
+
+```bash
+git clone https://github.com/felipeclarindo/gta-v-web.git
+```
+
+2. Enter directory:
+
+```bash
+cd gta-v-web
+```
+
+3. Open the file `index.html`.
 
 ## Contribution
 

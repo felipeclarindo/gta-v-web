@@ -16,21 +16,33 @@ Este é um website responsivo sobre o jogo "Grand Theft Auto V". O site inclui i
 - `CSS` - Estilizar o HTML.
 - `JavaScript` - Interatividade e Funcionalidades dinâmicas.
 
-## Como executar
+## Passos para executar
 
-Abra o arquivo `index.html` em um navegador web para visualizar o site.
+1. Clone o repositorio:
+
+```bash
+git clone https://github.com/felipeclarindo/gta-v-web.git
+```
+
+2. Entre no diretorio:
+
+```bash
+cd gta-v-web
+```
+
+3. Abra o arquivo `index.html`.
+
+## Contribuição
+
+Contribuições são bem-vindas! Se você tiver sugestões de melhorias, sinta-se à vontade para abrir uma issue ou enviar um pull request.
 
 ## Autor
 
-Desenvolvido por **Felipe Clarindo**
+**Felipe Clarindo**
 
-- [LinkedIn](https://www.linkedin.com/in/felipeclarindo/)
+- [LinkedIn](https://www.linkedin.com/in/felipeclarindo)
 - [Instagram](https://www.instagram.com/lipethecoder)
 - [GitHub](https://github.com/felipeclarindo)
-
-## Créditos
-
-Este projeto foi baseado em um tutorial do canal [Dev em Dobro]. Embora tenha sido desenvolvido de forma exclusiva, agradeço ao canal pela inspiração.
 
 ## Licença
 
